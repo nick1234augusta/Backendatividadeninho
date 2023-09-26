@@ -1,0 +1,172 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "nome": "Drama",
+      "id": 4
+    },
+    {
+      "nome": "Comedia",
+      "id": 5
+    },
+    {
+      "nome": "Romance",
+      "id": 6
+    },
+    {
+      "nome": "Animaçao",
+      "id": 7
+    },
+    {
+      "nome": "Terror",
+      "id": 8
+    },
+    {
+      "nome": "Suspemse",
+      "id": 9
+    },
+    {
+      "nome": "HQ'S",
+      "id": 10
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "Como eu era nates de voce",
+      "autor": "Jojo Moyes",
+      "anoPublicacao": 2013,
+      "isbn": "978-85-359-0878-0",
+      "disponivel": false,
+      "categoriaId": 6
+    },
+    {
+      "id": 5,
+      "titulo": "Alice no país das Maravilhas",
+      "autor": "Lewis Carroll",
+      "anoPublicacao": 1865,
+      "isbn": "978-85-359-0348-0",
+      "disponivel": true,
+      "categoriaId": 7
+    },
+    {
+      "id": 6,
+      "titulo": "Misto Quente",
+      "autor": "Charles Bukowski",
+      "anoPublicacao": 1985,
+      "isbn": "978-85-389-0348-0",
+      "disponivel": true,
+      "categoriaId": 9
+    },
+    {
+      "id": 8,
+      "titulo": "Misto Quente",
+      "autor": "Rafael Montes",
+      "anoPublicacao": 2016,
+      "isbn": "978-75-389-0348-0",
+      "disponivel": true,
+      "categoriaId": 8
+    },
+    {
+      "id": 9,
+      "titulo": "Auto da Compacedida",
+      "autor": "Ariano Suassuna",
+      "anoPublicacao": 2000,
+      "isbn": "988-75-389-0348-0",
+      "disponivel": false,
+      "categoriaId": 5
+    },
+    {
+      "id": 10,
+      "titulo": "Batmam:Piada Mortal",
+      "autor": "Alan Moore",
+      "anoPublicacao": 1988,
+      "isbn": "988-75-389-038-0",
+      "disponivel": false,
+      "categoriaId": 10
+    },
+    {
+      "id": 11,
+      "titulo": "Turma da Mônica",
+      "autor": "Mauricio de Souza",
+      "anoPublicacao": 1970,
+      "isbn": "988-75-389-058-0",
+      "disponivel": true,
+      "categoriaId": 10
+    },
+    {
+      "id": 12,
+      "titulo": "Nada de novo front",
+      "autor": "Erich M.",
+      "anoPublicacao": 1928,
+      "isbn": "988-75-389-058-0",
+      "disponivel": true,
+      "categoriaId": 3
+    },
+    {
+      "id": 13,
+      "titulo": "O conto de aia",
+      "autor": "Margaret Atwood",
+      "anoPublicacao": 1985,
+      "isbn": "978-75-389-058-0",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 14,
+      "titulo": "A culpa é das estrelas",
+      "autor": "John Green",
+      "anoPublicacao": 2008,
+      "isbn": "978-75-779-058-0",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 15,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "anoPublicacao": 1949,
+      "isbn": "948-75-779-058-0",
+      "disponivel": false,
+      "categoriaId": 2
+    }
+  ]
+}
